@@ -2,6 +2,8 @@
 
 [Swedes Online: You Are More Tracked Than You Think](https://joelpurra.com/projects/masters-thesis/)
 
+This is the repository for the report, written using [LyX](https://www.lyx.org/) and [TeX](https://en.wikipedia.org/wiki/TeX)/[LaTeX](https://en.wikipedia.org/wiki/LaTeX).
+
 The thesis titled *Swedes Online: You Are More Tracked Than You Think* was presented 2015-02-19; see the [master's thesis website](https://joelpurra.com/projects/masters-thesis/) for the [full thesis pdf](https://files.joelpurra.com/projects/masters-thesis/documents/v1.0.0/joel-purra_masters-thesis_2015-04-23T1353Z_v1.0.0_report.pdf), presentation [video recording](https://joelpurra.com/projects/masters-thesis/#presentation) and [slides](https://joelpurra.github.io/masters-thesis-presentation/), [open source code](https://joelpurra.com/projects/masters-thesis/#open-source), and [open data](https://joelpurra.com/projects/masters-thesis/#open-data).
 
 
