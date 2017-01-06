@@ -6,6 +6,21 @@ The thesis titled *Swedes Online: You Are More Tracked Than You Think* was prese
 
 
 
+## Citations
+
+If you use, like, reference, or base work on the [thesis report](https://joelpurra.com/projects/masters-thesis/#thesis), [IEEE LCN 2016 paper](https://joelpurra.com/projects/masters-thesis/#ieee-lcn-2016), open [source code](https://joelpurra.com/projects/masters-thesis/#open-source), or [open data](https://joelpurra.com/projects/masters-thesis/#open-data), please add at least on of the following two citations with a link to the master's thesis website: https://joelpurra.com/projects/masters-thesis/
+
+[Master's thesis](https://joelpurra.com/projects/masters-thesis/#thesis) citation:
+
+> Joel Purra. 2015. Swedes Online: You Are More Tracked Than You Think. Master's thesis. Linköping University (LiU), Linköping, Sweden. https://joelpurra.com/projects/masters-thesis/
+
+
+[IEEE LCN 2016 paper](https://joelpurra.com/projects/masters-thesis/#ieee-lcn-2016) citation:
+
+> J. Purra, N. Carlsson, Third-party Tracking on the Web: A Swedish Perspective, Proc. IEEE Conference on Local Computer Networks (LCN), Dubai, UAE, Nov. 2016. https://joelpurra.com/projects/masters-thesis/
+
+
+
 ---
 
 Copyright (c) 2014, 2015, 2016, 2017 [Joel Purra](https://joelpurra.com/). Released under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
