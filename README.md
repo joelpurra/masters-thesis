@@ -1,5 +1,7 @@
 # [Joel Purra's master's thesis](https://joelpurra.com/projects/masters-thesis/)
 
+[![Photo of Joel Purra presenting his master's thesis, named Swedes Online: You Are More Tracked Than You Think](https://files.joelpurra.com/projects/masters-thesis/video/2015-02-19/joel-purra_masters-thesis_2015-02-19_defense_highres.jpg)](https://joelpurra.com/projects/masters-thesis/)
+
 [Swedes Online: You Are More Tracked Than You Think](https://joelpurra.com/projects/masters-thesis/)
 
 This is the repository for the report, written using [LyX](https://www.lyx.org/) and [TeX](https://en.wikipedia.org/wiki/TeX)/[LaTeX](https://en.wikipedia.org/wiki/LaTeX).
